@@ -1,9 +1,9 @@
-## Hi, I'm Josef Daniels 👋🏴
+# Hi, I'm Josef Daniels 👋🏴
 
 ## About Me
 
-- 🎓 Programming Student
-- 💻 Learning Python, algorithms, and programming fundamentals
+- 🎓 Programming student
+- 💻 Currently learning Python, algorithms, and programming fundamentals
 
 ## Technologies I Use
 
