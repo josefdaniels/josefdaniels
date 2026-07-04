@@ -7,4 +7,4 @@ About Me
 
 Technologies I Use
 
-![Python](https://cdn.simpleicons.org/python)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
