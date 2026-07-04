@@ -2,8 +2,8 @@ Hi, I'm [Josef Daniels] 👋🏴
 
 About Me
 
-- 🎓 Student of [Programming]
-- 💻 Currently learning [Programming Fundamentals]
+- 🎓 Programming Student
+- 💻 Learning Python, algorithms, and programming fundamentals
 
 Technologies I Use
 
