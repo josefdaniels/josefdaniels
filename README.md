@@ -7,4 +7,4 @@ About Me
 
 Technologies I Use
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://cdn.simpleicons.org/python/3776AB)
