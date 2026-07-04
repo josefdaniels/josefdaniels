@@ -7,4 +7,4 @@ About Me
 
 Technologies I Use
 
-![Python](https://cdn.simpleicons.org/python/3776AB)
+![Python](https://cdn.simpleicons.org/python)
