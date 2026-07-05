@@ -1,52 +1,63 @@
+# Josef Daniels
 
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:0a0a0a&height=200&section=header&text=Josef%20Daniels&fontSize=50&fontColor=ffffff)
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=8A2BE2&vCenter=true&width=500&lines=Hello+World" />
-
-</div>
+High school student focused on building a strong foundation in programming, mathematics, and Artificial Intelligence.
 
 ---
 
-## 👋 Currently
+## 👤 About Me
 
 - High school student  
-- Studying programming logic  
+- Self-learning programming and logic at home  
+- First programming language: Python  
+- Interested in Artificial Intelligence and Machine Learning  
+- Strong interest in mathematics and analytical thinking  
+- Currently building fundamentals before specializing
 
 ---
 
-## 🧠 Tech Stack
+## 🎯 Goals
 
-<div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" 
-       width="120" 
-       alt="Python" />
-</div>
+- Develop strong Python programming skills  
+- Master Data Structures and Algorithms  
+- Strengthen mathematics for Machine Learning  
+- Study fundamentals of AI and data science  
+- Build real-world projects and a solid portfolio
+
+---
+
+## 📚 Currently Learning
+
+- Python programming fundamentals  
+- Problem solving and programming logic  
+- Basic linear algebra  
+- Basic statistics and probability  
 
 ---
 
 ## 🧠 Skills
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
+- Python (beginner)
+- Git / GitHub (basic)
+- HTML / CSS (basic understanding)
 
 ---
 
-## 📊 GitHub Stats & Grind
+## 📁 Projects
 
-![GitHub Stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=josefdaniels&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=josefdaniels&layout=compact&theme=tokyonight))
+- Python logic exercises and small scripts  
+- Personal learning experiments in programming  
 
 ---
 
-![black hole](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+## 📌 Focus
+
+Long-term focus on Artificial Intelligence and Machine Learning, with emphasis on mathematical foundations and problem solving.
+
 ---
 
+## 🌐 Contact
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:0a0a0a&height=120&section=footer)
+- TikTok:  
+- Instagram:  
+- X (Twitter):  
+- Discord:  
