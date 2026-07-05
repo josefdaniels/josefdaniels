@@ -22,9 +22,9 @@
   <!-- ═══ NAME & PYTHON USER (Purple Neon) ═══════════════════════ -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=8a2be2&center=true&vCenter=true&width=600&lines=Josef+Daniels;PYTHON+USER" />
+      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=8a2be2&center=true&vCenter=true&width=600&lines=Josef+Daniels;Beginner+in+Programming" />
     <source media="(prefers-color-scheme: light)"
-      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=8a2be2&center=true&vCenter=true&width=600&lines=Josef+Daniels;PYTHON+USER" />
+      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=8a2be2&center=true&vCenter=true&width=600&lines=Josef+Daniels;Beginner+in+Programming" />
     <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=8a2be2&center=true&vCenter=true&width=600&lines=Josef+Daniels;PYTHON+USER" alt="Josef Daniels typing animation" />
   </picture>
 
