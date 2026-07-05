@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Josef+Daniels" />
 </p>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NldTNpOHlzeXljcW1yZGdtbXd3bDRmOWJsbmdoZXFwcG94dGNmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Q2hJ4FLN1UvS/giphy.gif" width="600"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzYyM2xyeGNtaTB1YXd2cjAwY2U0Y2N0N3UwY2h3ZHczbDVxMWQ4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cKsXjwNQxtVncNBTey/giphy.gif" width="650"/>
 
 </div>
 
@@ -21,11 +21,9 @@
 
 ## 💻 Languages & Tools
 
-<!-- Python com logo oficial da cobra (amarelo e azul) -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)
 
 ---
 
@@ -43,8 +41,35 @@
 
 ## 🚀 Projects
 
-- 🧮 [Guess the Number](https://github.com/josefdaniels/Guess-the-number)  
-- 🧠 [Calculator Metzudat David](https://github.com/josefdaniels/Calculator-MetzudatDavid)
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="300">
+
+### 🧮 Guess the Number
+Simple Python game focused on logic and randomness.
+
+<a href="https://github.com/josefdaniels/Guess-the-number">
+  <img src="https://img.shields.io/badge/View%20Project-0d1117?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td align="center" width="300">
+
+### 🧠 Calculator Metzudat David
+Basic calculator project built in Python.
+
+<a href="https://github.com/josefdaniels/Calculator-MetzudatDavid">
+  <img src="https://img.shields.io/badge/View%20Project-0d1117?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -53,11 +78,11 @@
 <p align="center">
 
 <a href="https://www.instagram.com/josefdaniels_?igsh=OXNrNXdncW9xbXR0">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
 <a href="https://github.com/josefdaniels">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
