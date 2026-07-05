@@ -1,7 +1,7 @@
 <-- <div align="center">
   <img src=".github/assets/ken.gif" alt="Profile Banner">
   <h1>
-    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="Waving Hand"> Hi, I'm <a href="https://andrew-velox.github.io/" style="text-decoration: none;">Mohabbat!</a>
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="Waving Hand"> Hi, I'm <a href="https://andrew-velox.github.io/" style="text-decoration: none;">Josef Daniels</a>
   </h1>
   <p align=center>
   <a href="https://www.linkedin.com/in/mohabbatvlx" target="_blank"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/linkedin.svg"></a>
@@ -15,27 +15,27 @@
   <-- &nbsp; -->
   <-- <a href="https://www.youtube.com/@Veloxofcl" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/youtube.svg" alt="YouTube Logo"></a>&nbsp; -->
   <-- <a href="https://instagram.com/mohabbat__vlx" onclick="window.open(this.href, '_blank'); return false;"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/instagram.svg"></a>&nbsp; -->
-  <!-- <a href="https://t.me/V3L0X" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/telegram.svg"></a>&nbsp; -->
-  <!-- <a href="https://www.pinterest.com/V3LOX" target="_blank"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/pinterest.svg"></a> -->
-  <!-- &nbsp; -->
-  <!-- </p> -->
-<!-- </div> -->
+  <-- <a href="https://t.me/V3L0X" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/telegram.svg"></a>&nbsp; -->
+  <-- <a href="https://www.pinterest.com/V3LOX" target="_blank"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/pinterest.svg"></a> -->
+  <-- &nbsp; -->
+  <-- </p> -->
+<-- </div> -->
 
 
 
 
 
 
-<!-- <div align="center"> -->
-  <!-- ═══ TOP DIVIDER ═══════════════════════════════════════════ -->
-  <!-- <picture>
+<-- <div align="center"> -->
+  <-- ═══ TOP DIVIDER ═══════════════════════════════════════════ -->
+  <-- <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=333333" />
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=ebebeb" />
     <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ebebeb" alt="divider"/>
   </picture>
   <br /> -->
-  <!-- ═══ NAME ══════════════════════════════════════════════════ -->
-  <!-- <picture>
+  <-- ═══ NAME ══════════════════════════════════════════════════ -->
+  <-- <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=600&lines=Andrew+Velox;Mohabbat" />
     <source media="(prefers-color-scheme: light)"
@@ -44,27 +44,27 @@
         alt="Andrew Velox typing animation" />
   </picture> -->
 
-  <!-- ═══ ROLE ═══════════════════════════════════════════════════ -->
-  <!-- <picture>
+  <-- ═══ ROLE ═══════════════════════════════════════════════════ -->
+  <-- <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" />
     <source media="(prefers-color-scheme: light)"
       srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" />
     <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" alt="Andrew Velox typing animation" />
   </picture> -->
-<!-- </div> -->
+<-- </div> -->
 
-<!-- <div align="center"> -->
-  <!-- ═══ SOCIAL BADGES ══════════════════════════════════════════ -->
+<-- <div align="center"> -->
+  <-- ═══ SOCIAL BADGES ══════════════════════════════════════════ -->
   
-  <!-- <hr /> -->
-<!-- </div> -->
+  <-- <hr /> -->
+<-- </div> -->
 
 
 
 
 
-<!-- 
+<-- 
 <div>
 
   ### About me
