@@ -1,9 +1,13 @@
 
-<!-- HEADER -->
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:0a0a0a&height=200&section=header&text=Josef%20Daniels&fontSize=50&fontColor=ffffff)
 
-<!-- TYPING INTRO (HELLO WORLD + ROXO) -->
+
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hello+World)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -45,5 +49,5 @@
 ![black hole](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 ---
 
-<!-- FOOTER -->
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:0a0a0a&height=120&section=footer)
