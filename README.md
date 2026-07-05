@@ -1,9 +1,13 @@
 <!-- HEADER -->
 <div align="center">
 
-# Hello, I'm Josef 👋
+# Hello, I'm Josef Daniels 👋
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NldTNpOHlzeXljcW1yZGdtbXd3bDRmOWJsbmdoZXFwcG94dGNmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Q2hJ4FLN1UvS/giphy.gif"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Josef+Daniels;Future+AI+%2F+ML+Engineer;Python+Learner;Aerospace+Enthusiast" />
+</p>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NldTNpOHlzeXljcW1yZGdtbXd3bDRmOWJsbmdoZXFwcG94dGNmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Q2hJ4FLN1UvS/giphy.gif" width="600"/>
 
 </div>
 
@@ -19,7 +23,7 @@
 
 ## 💻 Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
@@ -40,7 +44,7 @@
 ## 🚀 Projects
 
 - 🧮 [Guess the Number](https://github.com/josefdaniels/Guess-the-number)  
-- 🧠 [Calculator Metzudat David](https://github.com/josefdaniels/Calculator-Metzudat-David)
+- 🧠 [Calculator Metzudat David](https://github.com/josefdaniels/Calculator-MetzudatDavid)
 
 ---
 
@@ -49,16 +53,18 @@
 <p align="center">
 
 <a href="https://www.instagram.com/josefdaniels_?igsh=OXNrNXdncW9xbXR0">
-<img src="https://img.shields.io/badge/Instagram-ff0069?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/josefdaniels">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
