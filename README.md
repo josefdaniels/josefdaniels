@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://giphy.com" width="45" valign="middle"> Hi, I'm Josef Daniels!
+    <img src="https://githubusercontent.com" width="45" valign="middle"> Hi, I'm Josef Daniels!
   </h1>
   <p align=center>
     <!-- Clickable Social Badge: Instagram -->
