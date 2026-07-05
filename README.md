@@ -38,7 +38,11 @@
 
 ---
 
+<div align="center">
+
 ## 💻 Languages & Tools
+
+</div>
 
 <div align="center">
   <p>
