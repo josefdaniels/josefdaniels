@@ -70,5 +70,9 @@
 - Discord  
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180"/>
+</p>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,100:0a0a0a&height=120&section=footer)
