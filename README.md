@@ -1,8 +1,8 @@
 <!-- HEADER -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,100:0a0a0a&height=200&section=header&text=Josef%20Daniels&fontSize=50&fontColor=ffffff)
 
-<!-- TYPING INTRO -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Josef+Daniels;High+school+student;Learning+programming+logic)](https://git.io/typing-svg)
+<!-- ONLY NAME (typing effect simplificado) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Josef+Daniels)](https://git.io/typing-svg)
 
 ---
 
@@ -41,6 +41,12 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josefdaniels&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josefdaniels&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/josefdaniels/josefdaniels/blob/output/github-snake.svg)
 
 ---
 
