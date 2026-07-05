@@ -38,6 +38,7 @@
 </table>
 
 ---
+
 ## 💻 Languages & Tools
 
 <p align="left">
@@ -49,6 +50,7 @@
        width="40"
        style="margin-right:10px; filter: invert(1) brightness(2);" />
 </p>
+
 ---
 
 ## 📊 GitHub Stats
