@@ -10,7 +10,7 @@
 <div align="center">
 
 # Josef Daniels  
-### 💜 Python Learner • AI / ML Aspirant • Logic & Space Thinking
+### 🌪️ Python Learner • AI / ML Aspirant 🌪️
 
 </div>
 
