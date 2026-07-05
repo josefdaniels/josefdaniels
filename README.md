@@ -38,12 +38,13 @@
 </table>
 
 ---
-
 ## 💻 Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-0F3D2E?style=for-the-badge&logo=python&logoColor=00FF88)
-![Git](https://img.shields.io/badge/Git-0B2F1A?style=for-the-badge&logo=git&logoColor=00FF88)
-![GitHub](https://img.shields.io/badge/GitHub-0A1F14?style=for-the-badge&logo=github&logoColor=00FF88)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</p>
 
 ---
 
