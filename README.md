@@ -1,15 +1,9 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a0033&height=180&section=header&text=ENTROPYA&fontSize=48&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a0033&height=180&section=header&text=ENTROPY&fontSize=48&fontColor=ffffff)
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-</div>
 
 <h1 align="center">Hi, I'm Josef Daniels 👋</h1>
 
-<p align="center">
-  High school student passionate about programming, mathematics and artificial intelligence.
-</p>
+
 
 ---
 
@@ -62,7 +56,7 @@ A simple but functional calculator built in Python.
 [![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=josefdaniels&repo=Calculator-Metzudat-David&theme=radical)](https://github.com/josefdaniels/Calculator-Metzudat-David)
 
 **🎲 Guess the Number**  
-Number guessing game with different difficulty levels.  
+Number guessing game
 [![Guess the Number](https://github-readme-stats.vercel.app/api/pin/?username=josefdaniels&repo=Guess-the-number&theme=radical)](https://github.com/josefdaniels/Guess-the-number)
 
 ---
