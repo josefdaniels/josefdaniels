@@ -1,37 +1,205 @@
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+<!-- <div align="center">
+  <img src=".github/assets/ken.gif" alt="Profile Banner">
+  <h1>
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="Waving Hand"> Hi, I'm <a href="https://andrew-velox.github.io/" style="text-decoration: none;">Mohabbat!</a>
+  </h1>
+  <p align=center>
+  <a href="https://www.linkedin.com/in/mohabbatvlx" target="_blank"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/linkedin.svg"></a>
+  &nbsp;
+  <a href="https://discord.com/users/mohabbat_v3" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/discord.svg" alt="Discord Logo"></a>
+  &nbsp;
+  <a href="https://facebook.com/mohabbat404" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/facebook.svg" alt="Facebook Logo"></a>
+  &nbsp;
+  <!-- <a href="https://facebook.com/mohabbat404" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/instagram.svg" alt="Instagram Logo"></a>&nbsp; -->
+  <!-- <a href="https://x.com/mohabbat__vlx" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/twitter-x.svg" alt="Twitter-x Logo"></a> -->
+  <!-- &nbsp; -->
+  <!-- <a href="https://www.youtube.com/@Veloxofcl" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/youtube.svg" alt="YouTube Logo"></a>&nbsp; -->
+  <!-- <a href="https://instagram.com/mohabbat__vlx" onclick="window.open(this.href, '_blank'); return false;"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/instagram.svg"></a>&nbsp; -->
+  <!-- <a href="https://t.me/V3L0X" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/telegram.svg"></a>&nbsp; -->
+  <!-- <a href="https://www.pinterest.com/V3LOX" target="_blank"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/pinterest.svg"></a> -->
+  <!-- &nbsp; -->
+  <!-- </p> -->
+<!-- </div> -->
+
+
+
+
+
+
+<!-- <div align="center"> -->
+  <!-- ═══ TOP DIVIDER ═══════════════════════════════════════════ -->
+  <!-- <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=333333" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=ebebeb" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ebebeb" alt="divider"/>
+  </picture>
+  <br /> -->
+  <!-- ═══ NAME ══════════════════════════════════════════════════ -->
+  <!-- <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=600&lines=Andrew+Velox;Mohabbat" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Andrew+Velox;Mohabbat" />
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Andrew+Velox;Mohabbat"
+        alt="Andrew Velox typing animation" />
+  </picture> -->
+
+  <!-- ═══ ROLE ═══════════════════════════════════════════════════ -->
+  <!-- <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" />
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" alt="Andrew Velox typing animation" />
+  </picture> -->
+<!-- </div> -->
+
+<!-- <div align="center"> -->
+  <!-- ═══ SOCIAL BADGES ══════════════════════════════════════════ -->
+  
+  <!-- <hr /> -->
+<!-- </div> -->
+
+
+
+
+
+<!-- 
+<div>
+
+  ### About me
+
+  <div><img align="right" alt="GIF" src=".github/assets/samurai4.png"" width="200" height="100%" /></div>
+
+  | <p align="left">🎓 <a href="https://green.edu.bd/" style="text-decoration: none;">GUB</a> • Final-year CSE Student </p>  |
+  | --------------------------------------------------------- |
+  | 🕋 **Religion:** 🤍 Islam 🤍                              |
+  | 🏫 Dhaka, Bangladesh                                      |
+  | 💻 Core Contributor at the [ziex-dev](https://github.com/ziex-dev).                                                  |  
+  | 🦀 **Currently building:** Rust tools.                    |
+  | 🐧 **Environment:** <a href="https://github.com/archlinux">Arch Linux</a> + <a href="https://github.com/hyprwm/Hyprland">Hyprland</a>.                |
+  | 💙 **Love to:** Code • Sleep • Sing.                                       |
+  | 🌐 **Languages:** 🇧🇩  • 🇺🇸  • 🇸🇦                          |
+
+---
+
+
+
 </div>
 
-###
 
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<br clear="both" /> -->
 
-###
+<img align='right' width="260" src='.github/assets/kenkankei_cmp.png'>
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+<p align="center">
+  <br/><br/>
+  <img src='https://count.getloli.com/@Andrew-Velox?name=Andrew-Velox&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
+  <img src=".github/assets/stats.svg" width="400px"/>
+  <img height="170" src="https://github-readme-streak-stats-vijaypur.vercel.app?user=andrew-velox&count_private=true&theme=midnight-purple&hide_border=true" width="400px"/>
+  <img width="400px" src=".github/assets/metrics-stats.svg" />
+  <img width="400px" src=".github/assets/metrics-repository.svg" />
+  <img width="400px" src=".github/assets/metrics-activity.svg" />
+</p>
+
+<img  src="https://github-readme-activity-graph.vercel.app/graph?username=Andrew-Velox&theme=high-contrast&hide_border=true&area=true" />
+<br clear="both" />
+
+---
+
+<h2 align="center"> Languages-Frameworks-Tools </h2>
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="express" />
+    </td>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="express" />
+    </td>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="express" />
+    </td>
+    <td align="center" width="96">
+         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" alt="express" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="express" />
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="notion" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="PostgreSQL" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="gitlab" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="gitlab" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="linux" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="Nodejs" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+  <h2 align="center">💻 Competitive programming 💻</h2>
+  <br/>
+
+  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/badge?username=yalniz&theme=highcontrast)](https://codeforces.com/profile/yalniz)
+  <br>
+  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=yalniz&theme=highcontrast)](https://codeforces.com/profile/yalniz)
+  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=yalniz&theme=highcontrast)](https://codeforces.com/profile/yalniz)
+
 </div>
 
-###
+
+<hr/>
+
+<h4 align="center">Made with <img src=".github/assets/hearts_gif.gif" width="25" height="25"/> by <a href="https://github.com/andrew-velox">Mohabbat</a></h4>
