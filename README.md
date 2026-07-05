@@ -71,7 +71,7 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/3o7TKsQ8Uq1x0Y9xWQ/giphy.gif" width="200"/>
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,100:0a0a0a&height=120&section=footer)
