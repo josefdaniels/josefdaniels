@@ -1,7 +1,15 @@
 <div align="center">
   <h1>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIycXpxY284bnM0M2w5ZHpxajB3cnN6MW9uMnBtMHdxeTZ2YWkyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bYFmQ8vXwD407wZ3zS/giphy.gif" width="45" alt="Anime Girl Waving"> Hi, I'm <a href="https://github.com/josefdaniels" style="text-decoration: none;">Josef Daniels!</a>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIycXpxY284bnM0M2w5ZHpxajB3cnN6MW9uMnBtMHdxeTZ2YWkyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bYFmQ8vXwD407wZ3zS/giphy.gif" width="45" alt="Anime Girl Waving"> Hi, I'm <a href="https://github.com/josefdaniels" style="text-decoration: none;">Josef Daniels!</a>
   </h1>
+  <p align=center>
+    <!-- Clickable Social Badge: Instagram -->
+    <a href="https://www.instagram.com/josefdaniels_?igsh=OXNrNXdncW9xbXR0" target="_blank">
+      <img height="35" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/instagram.svg" alt="Instagram Logo">
+    </a>
+  </p>
+</div>
+
   <p align=center>
     <!-- Clickable Social Badge: Instagram -->
     <a href="https://www.instagram.com/josefdaniels_?igsh=OXNrNXdncW9xbXR0" target="_blank">
