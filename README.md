@@ -2,10 +2,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:0a0a0a&height=200&section=header&text=Josef%20Daniels&fontSize=50&fontColor=ffffff)
 
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hello+World)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=8A2BE2&vCenter=true&width=500&lines=Hello+World" />
 
 </div>
 
