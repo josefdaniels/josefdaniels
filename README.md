@@ -70,24 +70,21 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.instagram.com/josefdaniels_?igsh=OXNrNXdncW9xbXR0">
-<img src="https://img.shields.io/badge/Instagram-0B2F1A?style=for-the-badge&logo=instagram&logoColor=00FF88"/>
+  <img src="https://img.shields.io/badge/INSTAGRAM-0B2F1A?style=for-the-badge&logo=instagram&logoColor=00FF88"/>
 </a>
 
 <a href="https://github.com/josefdaniels">
-<img src="https://img.shields.io/badge/GitHub-0A1F14?style=for-the-badge&logo=github&logoColor=00FF88"/>
+  <img src="https://img.shields.io/badge/GITHUB-0A1F14?style=for-the-badge&logo=github&logoColor=00FF88"/>
 </a>
 
-</p>
-
+</div>
 ---
-
-## 🌱 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="500"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="500"/>
 
 </div>
