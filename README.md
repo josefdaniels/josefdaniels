@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="Waving Hand"> Hi, I'm <a href="https://github.com/josefdaniels" style="text-decoration: none;">Josef Daniels!</a>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIycXpxY284bnM0M2w5ZHpxajB3cnN6MW9uMnBtMHdxeTZ2YWkyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bYFmQ8vXwD407wZ3zS/giphy.gif" width="45" alt="Anime Girl Waving"> Hi, I'm <a href="https://github.com/josefdaniels" style="text-decoration: none;">Josef Daniels!</a>
   </h1>
   <p align=center>
     <!-- Clickable Social Badge: Instagram -->
