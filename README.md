@@ -82,9 +82,10 @@
 
 </div>
 ---
+## 📈 GitHub Insights
 
 <div align="center">
 
-<img src="https://media.tenor.com/3Q2hJ4FLN1UvS.gif" width="600"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josefdaniels&show_icons=true&theme=chartreuse-dark&hide_border=true)
 
 </div>
