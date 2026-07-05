@@ -11,7 +11,7 @@
 <div align="center">
 
 # Josef Daniels  
-### 🌪️ Python Learner • AI / ML Aspirant 🌪️
+### 🌪️ Python Learner 🌪️
 
 </div>
 
@@ -85,6 +85,6 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="500"/>
+<img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="600"/>
 
 </div>
