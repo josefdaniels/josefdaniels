@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20and%20Body/Woman%20Technologist.png" width="40" alt="Anime Technologist Girl"> Hi, I'm <a href="https://github.com/josefdaniels" style="text-decoration: none;">Josef Daniels!</a>
+    👩‍💻 Hi, I'm Josef Daniels!
   </h1>
   <p align=center>
     <!-- Clickable Social Badge: Instagram -->
@@ -9,6 +9,7 @@
     </a>
   </p>
 </div>
+
 
 <div align="center">
   <!-- ═══ TOP DIVIDER (Purple Neon) ═══════════════════════════════ -->
