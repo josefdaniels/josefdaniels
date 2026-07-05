@@ -3,7 +3,7 @@
 
 # Hello, I'm Josef 👋
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="280"/>
 
 </div>
 
