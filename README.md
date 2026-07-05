@@ -16,33 +16,52 @@
 
 ---
 
-## 🌿 About Me
+<!-- ABOUT + GIF + SOCIALS LADO A LADO -->
 
 <table>
 <tr>
-<td>
+
+<!-- ABOUT ME (ESQUERDA) -->
+<td width="50%" valign="top">
+
+## 🌿 About Me
 
 - 🎓 High School Student  
 - 🐍 Learning Python & Programming Logic  
-- 🤖 Future focus: AI / Machine Learning   
+- 🤖 Future focus: AI / Machine Learning  
 
 </td>
 
-<td>
+<!-- GIF (CENTRO) -->
+<td width="25%" align="center" valign="top">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJwcWl0cXp1cGljcmw2YTZlcW4ydGxsMW14ZGIxNmk0ZWtyeWNlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width="120"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJwcWl0cXp1cGljcmw2YTZlcW4ydGxsMW14ZGIxNmk0ZWtyeWNlNyZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width="120"/>
 
 </td>
+
+<!-- SOCIALS (DIREITA) -->
+<td width="25%" valign="top" align="center">
+
+## 🌐 Socials
+
+<a href="https://www.instagram.com/josefdaniels_?igsh=OXNrNXdncW9xbXR0">
+  <img src="https://img.shields.io/badge/INSTAGRAM-0B2F1A?style=for-the-badge&logo=instagram&logoColor=00FF88"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/josefdaniels">
+  <img src="https://img.shields.io/badge/GITHUB-0A1F14?style=for-the-badge&logo=github&logoColor=00FF88"/>
+</a>
+
+</td>
+
 </tr>
 </table>
 
-
-
-<div align="center">
+---
 
 ## 💻 Languages & Tools
-
-</div>
 
 <div align="center">
   <p>
@@ -52,7 +71,7 @@
   </p>
 </div>
 
-
+---
 
 ## 📊 GitHub Stats
 
@@ -66,25 +85,9 @@
 
 </div>
 
-
+---
 
 ## 🚀 Projects
 
 - 🧠 [Guess the Number](https://github.com/josefdaniels/Guess-the-number)  
 - 🧮 [Calculator Metzudat David](https://github.com/josefdaniels/Calculator-MetzudatDavid)
-
-
-
-## 🌐 Socials
-
-<div align="center">
-<a href="https://www.instagram.com/josefdaniels_?igsh=OXNrNXdncW9xbXR0">
-  <img src="https://img.shields.io/badge/INSTAGRAM-0B2F1A?style=for-the-badge&logo=instagram&logoColor=00FF88"/>
-</a>
-
-<a href="https://github.com/josefdaniels">
-  <img src="https://img.shields.io/badge/GITHUB-0A1F14?style=for-the-badge&logo=github&logoColor=00FF88"/>
-</a>
-
-</div>
-
