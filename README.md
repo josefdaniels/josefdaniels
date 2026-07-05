@@ -82,10 +82,3 @@
 
 </div>
 ---
-## 📈 GitHub Insights
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josefdaniels&show_icons=true&theme=chartreuse-dark&hide_border=true)
-
-</div>
