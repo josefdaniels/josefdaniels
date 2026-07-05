@@ -1,8 +1,9 @@
-<!-- HEADER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,100:0a0a0a&height=200&section=header&text=Josef%20Daniels&fontSize=50&fontColor=ffffff)
 
-<!-- ONLY NAME (typing effect simplificado) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Josef+Daniels)](https://git.io/typing-svg)
+<!-- HEADER -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:0a0a0a&height=200&section=header&text=Josef%20Daniels&fontSize=50&fontColor=ffffff)
+
+<!-- TYPING INTRO (HELLO WORLD + ROXO) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hello+World)](https://git.io/typing-svg)
 
 ---
 
@@ -51,4 +52,4 @@
 ---
 
 <!-- FOOTER -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:00ff9d&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:0a0a0a&height=120&section=footer)
