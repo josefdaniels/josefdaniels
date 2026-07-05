@@ -1,6 +1,4 @@
-<div align="center">
-  <h1>
-    <img src="https://raw.githubusercontent.com/StayC0der/StayC0der/main/images/waving-anime-girl.gif" width="45" valign="middle"> Hi, I'm Josef Daniels!
+" width="45" valign="middle"> Hi, I'm Josef Daniels!
   </h1>
   <p align=center>
     <!-- Clickable Social Badge: Instagram -->
