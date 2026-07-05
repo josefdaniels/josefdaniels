@@ -11,7 +11,6 @@
 <div align="center">
 
 # Josef Daniels  
-### 🌪️ Python Learner 🌪️
 
 </div>
 
@@ -41,15 +40,13 @@
 
 ## 💻 Languages & Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="margin-right:10px"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin-right:10px"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"
-     width="40"
-     style="filter: brightness(0) invert(1);" />
-</p>
+<div align="center">
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="margin: 0 10px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin: 0 10px"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" style="filter: brightness(0) invert(1); margin: 0 10px"/>
+  </p>
+</div>
 
 ---
 
