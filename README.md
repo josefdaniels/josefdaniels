@@ -75,7 +75,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Socials
 
 <div align="center">
 
