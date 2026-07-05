@@ -1,80 +1,80 @@
-<!-- DARK / COSMIC HEADER -->
+<!-- HEADER -->
 <div align="center">
 
-# 🖤 Josef | Aspiring AI & ML Engineer
+# Hello, I'm Josef 👋
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
-
-> "Order, logic, and discipline — even in chaos."
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
 </div>
 
 ---
 
-## ⚔️ About Me
+## 🧾 About Me
 
-- 🌱 Currently studying: Python & Programming Logic  
-- 🤖 Future focus: Artificial Intelligence & Machine Learning  
-- ✈️ Interest: Aerospace engineering & defense systems  
-- 🧠 Goal: Contribute to companies like Embraer  
-- ⛪ Values: Discipline, learning, and purpose-driven work  
+- 🌱 Currently learning Python and Programming Logic  
+- 🤖 Future goal: Artificial Intelligence & Machine Learning  
+- ✈️ Passionate about aerospace engineering and defense systems  
+- 🧠 Interested in building real-world impactful technologies  
+- ⛪ Focused on discipline, learning, and continuous improvement  
 
 ---
 
-## 🧩 Skills in Progress
+## 💻 Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Learning](https://img.shields.io/badge/Status-Learning-yellow?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-Future%20Goal-blueviolet?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-## ♟️ Current Focus (Chess Mode Thinking)
-
----
-
-## 🌌 Philosophy
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="400"/>
-
-</div>
-
-> Like a chessboard in the dark — every move matters, even if you don’t see the whole game yet.
-
----
-
-## 📊 GitHub Stats (optional flex, but harmless)
+## 📊 GitHub Stats
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 </div>
 
 ---
 
-## 🧠 Current Learning Path
+## 🚀 Projects
 
-- Python fundamentals (logic, loops, functions)
-- Problem solving (very important, unfortunately)
-- Git & GitHub basics
-- Intro to Data Structures
-- Math for Machine Learning
+- 🧮 Python Logic Exercises → beginner problem solving  
+- 🤖 AI Learning Roadmap → studying machine learning basics  
+- ✈️ Aerospace Interest Projects → simulations and ideas (coming soon)
+
+> More projects will be added as I grow my skills.
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ---
 
-## 🖤 Vision
-
-> Build systems that are precise, reliable, and useful in real-world engineering — especially aerospace and AI applications.
-
----
+## 🌌 Final Touch
 
 <div align="center">
 
-## ⚫ “Even a small light is enough to break absolute darkness.”
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="350"/>
 
 </div>
+
+> “In the silence of code, structure is born from chaos.”
