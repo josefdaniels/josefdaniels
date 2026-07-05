@@ -58,12 +58,12 @@
 
 <p align="center">
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=josefdaniels&show_icons=true&theme=tokyonight&hide_border=true" width="400px"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=josefdaniels&theme=tokyonight&hide_border=true" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=josefdaniels&show_icons=true&theme=dracula&hide_border=true" width="400px"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=josefdaniels&theme=dracula&hide_border=true" width="400px"/>
 </p>
 
-<!-- Purple/Black Theme Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=josefdaniels&theme=tokyonight&hide_border=true&area=true" />
+<!-- Activity Graph adjusted with the Dracula theme (Deep dark background with violet/purple lines) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=josefdaniels&theme=dracula&hide_border=true&area=true" />
 <br clear="both" />
 
 ---
