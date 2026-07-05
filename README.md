@@ -1,12 +1,6 @@
-<!-- HEADER (mais sóbrio, universo escuro) -->
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a0033&height=180&section=header&text=Josef%20Daniels&fontSize=48&fontColor=ffffff)
 
-<!-- NAME (estático, sem animação) -->
-<div align="center">
-
-# Josef Daniels
-
-</div>
 
 ---
 
@@ -55,6 +49,7 @@
 ## 📁 Projects
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=josefdaniels&repo=NOME_DO_REPO&theme=radical)](https://github.com/josefdaniels/Calculator-Metzudat-David)
+
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=josefdaniels&repo=NOME_DO_REPO&theme=radical)](https://github.com/josefdaniels/Guess-the-number)
 
 ---
@@ -76,5 +71,4 @@
 
 ---
 
-<!-- FOOTER (universo discreto) -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,100:0a0a0a&height=120&section=footer)
