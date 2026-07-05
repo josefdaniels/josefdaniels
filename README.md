@@ -61,13 +61,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josefdaniels&layout=compact&theme=radical&hide_border=true)
 
 ---
-
 ## 🌐 Socials
 
-- TikTok  
-- Instagram  
-- X (Twitter)  
-- Discord  
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@josefdaniels_)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/josefdaniels_)
 
 ---
 ![black hole](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
