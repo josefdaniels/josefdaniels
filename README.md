@@ -45,7 +45,7 @@
 
 ---
 
-![black hole](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![black hole](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 ---
 
 <!-- FOOTER -->
