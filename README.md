@@ -36,7 +36,7 @@
 </tr>
 </table>
 
----
+
 
 <div align="center">
 
@@ -52,7 +52,7 @@
   </p>
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -66,19 +66,18 @@
 
 </div>
 
----
+
 
 ## 🚀 Projects
 
 - 🧠 [Guess the Number](https://github.com/josefdaniels/Guess-the-number)  
 - 🧮 [Calculator Metzudat David](https://github.com/josefdaniels/Calculator-MetzudatDavid)
 
----
+
 
 ## 🌐 Socials
 
 <div align="center">
-
 <a href="https://www.instagram.com/josefdaniels_?igsh=OXNrNXdncW9xbXR0">
   <img src="https://img.shields.io/badge/INSTAGRAM-0B2F1A?style=for-the-badge&logo=instagram&logoColor=00FF88"/>
 </a>
@@ -88,4 +87,4 @@
 </a>
 
 </div>
----
+
