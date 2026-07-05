@@ -14,8 +14,6 @@
 - 🎓 High School Student  
 - 🐍 Studying Programming Logic with Python  
 - 🤖 Working towards a future in AI / Machine Learning  
-- ✈️ Interested in aerospace engineering and defense technology  
-- 🧠 Focused on discipline, learning, and long-term growth  
 
 ---
 
@@ -31,9 +29,9 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josefdaniels&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josefdaniels&theme=tokyo-night)
 
 </div>
 
@@ -41,9 +39,8 @@
 
 ## 🚀 Projects
 
-- 🧮 Python Logic Exercises → building problem-solving foundations  
-- 🤖 AI Learning Path → studying ML fundamentals step by step  
-- ✈️ Aerospace Ideas → simulations and exploratory projects (in progress)
+- 🧮 [Guess the Number](https://github.com/josefdaniels/Guess-the-number)  
+- 🧠 [Calculator Metzudat David](https://github.com/josefdaniels/Calculator-Metzudat-David)
 
 ---
 
@@ -62,8 +59,6 @@
 </p>
 
 ---
-
-## 🌌 Final Animation
 
 <div align="center">
 
