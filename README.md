@@ -1,7 +1,8 @@
 <!-- HEADER -->
+
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhyb2xmeHR6ZXd1eDgyNmg1b2Voa2pnd2FvcjMwc3Q3cjU2dWoxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Lc5xmvzRhlLy/giphy.gif" width="700"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGg4d2J1d2V6d2Z3d3J6b2F6b2J0Z3R0a2Z5Z3F2b2R1b2x6a3Z6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufdipQqU2lhNA4g/giphy.gif" width="500"/>
 
 </div>
 
@@ -16,19 +17,33 @@
 
 ---
 
-## 🌌 About Me
+## 🌿 About Me
+
+<table>
+<tr>
+<td>
 
 - 🎓 High School Student  
 - 🐍 Learning Python & Programming Logic  
-- 🤖 Future focus: AI / Machine Learning  
+- 🤖 Future focus: AI / Machine Learning   
+
+</td>
+
+<td>
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJwcWl0cXp1cGljcmw2YTZlcW4ydGxsMW14ZGIxNmk0ZWtyeWNlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width="120"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💻 Programming Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F97316)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A855F7)
+![Python](https://img.shields.io/badge/Python-0F3D2E?style=for-the-badge&logo=python&logoColor=00FF88)
+![Git](https://img.shields.io/badge/Git-0B2F1A?style=for-the-badge&logo=git&logoColor=00FF88)
+![GitHub](https://img.shields.io/badge/GitHub-0A1F14?style=for-the-badge&logo=github&logoColor=00FF88)
 
 ---
 
@@ -36,11 +51,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josefdaniels&show_icons=true&theme=midnight-purple&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=E5E7EB&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josefdaniels&show_icons=true&theme=chartreuse-dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josefdaniels&theme=midnight-purple&hide_border=true&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josefdaniels&theme=chartreuse-dark&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josefdaniels&theme=react-dark&hide_border=true&color=A855F7&line=A855F7&point=F97316)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josefdaniels&theme=github-dark&hide_border=true&color=00FF88&line=00FF88&point=00FF88)
 
 </div>
 
@@ -58,18 +73,18 @@
 <p align="center">
 
 <a href="https://www.instagram.com/josefdaniels_?igsh=OXNrNXdncW9xbXR0">
-<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=F97316"/>
+<img src="https://img.shields.io/badge/Instagram-0B2F1A?style=for-the-badge&logo=instagram&logoColor=00FF88"/>
 </a>
 
 <a href="https://github.com/josefdaniels">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/GitHub-0A1F14?style=for-the-badge&logo=github&logoColor=00FF88"/>
 </a>
 
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🌱 Contribution Snake
 
 <div align="center">
 
