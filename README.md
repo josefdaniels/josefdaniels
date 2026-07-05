@@ -46,9 +46,9 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin-right:10px"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg"
        width="40"
-       style="margin-right:10px; filter: invert(1) brightness(2);" />
+       style="margin-right:10px; filter: brightness(0) invert(1);" />
 </p>
 
 ---
