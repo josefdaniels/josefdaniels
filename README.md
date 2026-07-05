@@ -2,10 +2,10 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Josef+Daniels" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Josef+Daniels" />
 </p>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzYyM2xyeGNtaTB1YXd2cjAwY2U0Y2N0N3UwY2h3ZHczbDVxMWQ4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cKsXjwNQxtVncNBTey/giphy.gif" width="650"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhyb2xmeHR6ZXd1eDgyNmg1b2Voa2pnd2FvcjMwc3Q3cjU2dWoxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Lc5xmvzRhlLy/giphy.gif" width="650"/>
 
 </div>
 
@@ -22,8 +22,8 @@
 ## 💻 Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F1502F)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=8B5CF6)
 
 ---
 
@@ -31,9 +31,11 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josefdaniels&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josefdaniels&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=3B82F6)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josefdaniels&theme=tokyo-night)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josefdaniels&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josefdaniels&theme=react-dark&hide_border=true&color=7C3AED&line=3B82F6&point=F97316)
 
 </div>
 
@@ -45,13 +47,14 @@
 
 <table>
   <tr>
-    <td align="center" width="300">
+    <td align="center" width="300" style="background-color:#0d1117; border-radius:10px;">
 
 ### 🧮 Guess the Number
-Simple Python game focused on logic and randomness.
+
+Python logic game focused on randomness and decision making.
 
 <a href="https://github.com/josefdaniels/Guess-the-number">
-  <img src="https://img.shields.io/badge/View%20Project-0d1117?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/View-Project-7C3AED?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -59,10 +62,11 @@ Simple Python game focused on logic and randomness.
 <td align="center" width="300">
 
 ### 🧠 Calculator Metzudat David
-Basic calculator project built in Python.
+
+Basic calculator built in Python to practice logic and structure.
 
 <a href="https://github.com/josefdaniels/Calculator-MetzudatDavid">
-  <img src="https://img.shields.io/badge/View%20Project-0d1117?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/View-Project-3B82F6?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -78,11 +82,11 @@ Basic calculator project built in Python.
 <p align="center">
 
 <a href="https://www.instagram.com/josefdaniels_?igsh=OXNrNXdncW9xbXR0">
-<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=F97316"/>
 </a>
 
 <a href="https://github.com/josefdaniels">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=8B5CF6"/>
 </a>
 
 </p>
