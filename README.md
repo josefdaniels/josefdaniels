@@ -1,12 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a0033&height=180&section=header&text=Josef%20Daniels&fontSize=48&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a0033&height=180&section=header&text=ENTROPYA&fontSize=48&fontColor=ffffff)
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Learning](https://img.shields.io/badge/Currently%20Learning-AI%20%26%20Math-orange?style=for-the-badge)
-
 </div>
 
 <h1 align="center">Hi, I'm Josef Daniels 👋</h1>
