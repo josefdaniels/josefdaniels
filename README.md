@@ -23,32 +23,11 @@
     <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
     </td>
-    <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />
-    </td>
-    <td align="center" width="96">
-         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" alt="C++" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40" />
-    </td>
   </tr>
 
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
@@ -68,7 +47,7 @@
 
   - 🌱 Currently studying **Programming Logic** and improving my Python skills
   - 💻 Learning to solve problems and build small projects
-  - 🎯 Goal: Become a great programmer
+  - 🎯 Goal: Working with AI/ML
 
 </div>
 
@@ -77,5 +56,5 @@
 ---
 
 <h4 align="center">
-  Made with ❤️ by <a href="https://github.com/josefdaniels">Josef Daniels</a>
+  Entropia by <a href="https://github.com/josefdaniels">Josef Daniels</a>
 </h4>
