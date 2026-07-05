@@ -24,7 +24,7 @@
 <!-- ABOUT ME (ESQUERDA) -->
 <td width="50%" valign="top">
 
-## 🌿 About Me
+## About Me
 
 - 🎓 High School Student  
 - 🐍 Learning Python & Programming Logic  
@@ -39,19 +39,19 @@
 
 </td>
 
-<!-- SOCIALS (DIREITA) -->
+<!-- SOCIALS -->
 <td width="25%" valign="top" align="center">
 
-## 🌐 Socials
+## Socials
 
 <a href="https://www.instagram.com/josefdaniels_?igsh=OXNrNXdncW9xbXR0">
-  <img src="https://img.shields.io/badge/INSTAGRAM-0B2F1A?style=for-the-badge&logo=instagram&logoColor=00FF88"/>
+  <img src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/josefdaniels">
-  <img src="https://img.shields.io/badge/GITHUB-0A1F14?style=for-the-badge&logo=github&logoColor=00FF88"/>
+  <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -61,33 +61,35 @@
 
 ---
 
-## 💻 Languages & Tools
-
-<div align="center">
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="margin: 0 10px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin: 0 10px"/>
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" style="filter: brightness(0) invert(1); margin: 0 10px"/>
-  </p>
-</div>
-
----
-
-## 📊 GitHub Stats
+## Skills
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josefdaniels&show_icons=true&theme=chartreuse-dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josefdaniels&theme=chartreuse-dark&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josefdaniels&theme=github-dark&hide_border=true&color=00FF88&line=00FF88&point=00FF88)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="filter: grayscale(100%); margin: 0 10px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="filter: grayscale(100%); margin: 0 10px"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" style="filter: grayscale(100%); margin: 0 10px"/>
+</p>
 
 </div>
 
 ---
 
-## 🚀 Projects
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josefdaniels&show_icons=true&theme=graywhite&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josefdaniels&theme=graywhite&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josefdaniels&theme=github-light&hide_border=true)
+
+</div>
+
+---
+
+## Projects
 
 - 🧠 [Guess the Number](https://github.com/josefdaniels/Guess-the-number)  
 - 🧮 [Calculator Metzudat David](https://github.com/josefdaniels/Calculator-MetzudatDavid)
