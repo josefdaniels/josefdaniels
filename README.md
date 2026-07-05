@@ -39,7 +39,7 @@
 
 ---
 
-## 💻 Programming Stack
+## 💻 Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-0F3D2E?style=for-the-badge&logo=python&logoColor=00FF88)
 ![Git](https://img.shields.io/badge/Git-0B2F1A?style=for-the-badge&logo=git&logoColor=00FF88)
