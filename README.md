@@ -13,7 +13,7 @@
 ## 👤 About Me
 
 - High school student  
-- Self-studying programming logic at home  
+- Self-studying programming
 - First programming language: Python  
 - Strong interest in mathematics and logical systems  
 - Future focus: Artificial Intelligence / Machine Learning  
@@ -47,8 +47,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
@@ -56,9 +54,8 @@
 
 ## 📁 Projects
 
-- Python logic exercises (training fundamentals)  
-- Small scripts and calculators  
-- Experimental learning projects (WIP)  
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=josefdaniels&repo=NOME_DO_REPO&theme=radical)](https://github.com/josefdaniels/Calculator-Metzudat-David)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=josefdaniels&repo=NOME_DO_REPO&theme=radical)](https://github.com/josefdaniels/Guess-the-number)
 
 ---
 
