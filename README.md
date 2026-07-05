@@ -11,7 +11,7 @@
 <div align="center">
 
 # <span style="color:#A855F7;">Josef Daniels</span>  
-### 💜 Python Learner • AI / ML Aspirant • Space & Logic Enthusiast
+### 🌪️ Python Learner • AI / ML Aspirant • Math & Logic Enthusiast 🌪️
 
 </div>
 
@@ -22,7 +22,7 @@
 - 🎓 High School Student  
 - 🐍 Learning Python & Programming Logic  
 - 🤖 Future focus: AI / Machine Learning  
-- 🌠 Interested in aerospace systems and structured thinking  
+ 
 
 ---
 
