@@ -17,7 +17,9 @@
 <img align='right' width="260" src=".github/assets/kenkankei_cmp.png">
 
 <p align="center">
-  <img src="https://count.getloli.com/@josefdaniels?name=josefdaniels&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0" width="400px">
+  <!-- Contador corrigido -->
+  <img src="https://komarev.com/ghpvc/?username=josefdaniels&label=Profile%20Views&color=0e75b6&style=for-the-badge&base=0" alt="Profile Views"/>
+  
   <img height="170" src="https://github-readme-streak-stats-vijaypur.vercel.app?user=josefdaniels&count_private=true&theme=midnight-purple&hide_border=true" width="400px"/>
 </p>
 
