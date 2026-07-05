@@ -45,10 +45,7 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/josefdaniels/josefdaniels/blob/output/github-snake.svg)
-
+![black hole](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 ---
 
 <!-- FOOTER -->
