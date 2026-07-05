@@ -40,9 +40,9 @@
 
 ## 📊 GitHub Stats & Grind
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josefdaniels&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=josefdaniels&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josefdaniels&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=josefdaniels&layout=compact&theme=tokyonight))
 
 ---
 
