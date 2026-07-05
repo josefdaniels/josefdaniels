@@ -48,9 +48,9 @@
 
 ## 📁 Projects
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=josefdaniels&repo=NOME_DO_REPO&theme=radical)](https://github.com/josefdaniels/Calculator-Metzudat-David)
+[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=josefdaniels&repo=NOME_DO_REPO&theme=radical)](https://github.com/josefdaniels/Calculator-Metzudat-David)
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=josefdaniels&repo=NOME_DO_REPO&theme=radical)](https://github.com/josefdaniels/Guess-the-number)
+[![Guess the number](https://github-readme-stats.vercel.app/api/pin/?username=josefdaniels&repo=NOME_DO_REPO&theme=radical)](https://github.com/josefdaniels/Guess-the-number)
 
 ---
 
