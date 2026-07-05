@@ -1,5 +1,4 @@
 <!-- HEADER -->
-
 <div align="center">
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhyb2xmeHR6ZXd1eDgyNmg1b2Voa2pnd2FvcjMwc3Q3cjU2dWoxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Lc5xmvzRhlLy/giphy.gif" width="700"/>
@@ -10,8 +9,8 @@
 
 <div align="center">
 
-# <span style="color:#A855F7;">Josef Daniels</span>  
-### 🌪️ Python Learner • AI / ML Aspirant • Math & Logic Enthusiast 🌪️
+# Josef Daniels  
+### 💜 Python Learner • AI / ML Aspirant • Logic & Space Thinking
 
 </div>
 
@@ -22,7 +21,6 @@
 - 🎓 High School Student  
 - 🐍 Learning Python & Programming Logic  
 - 🤖 Future focus: AI / Machine Learning  
- 
 
 ---
 
@@ -38,11 +36,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josefdaniels&show_icons=true&theme=midnight-purple&hide_border=true&title_color=A855F7&icon_color=F97316&text_color=E5E7EB&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josefdaniels&show_icons=true&theme=midnight-purple&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=E5E7EB&bg_color=0d1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josefdaniels&theme=midnight-purple&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josefdaniels&theme=midnight-purple&hide_border=true&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josefdaniels&theme=react-dark&hide_border=true&color=A855F7&line=F97316&point=22D3EE)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josefdaniels&theme=react-dark&hide_border=true&color=A855F7&line=A855F7&point=F97316)
 
 </div>
 
