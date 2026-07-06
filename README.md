@@ -90,4 +90,4 @@
 ## 🚀 Projects
 
 - 🧠 [Guess the Number](https://github.com/josefdaniels/Guess-the-number)  
-- 🧮 [Calculator Metzudat David](https://github.com/josefdaniels/Calculator-MetzudatDavid)
+- 🧮 [Calculator Metzudat David](https://github.com/josefdaniels/Calculator-Metzudat-David)
