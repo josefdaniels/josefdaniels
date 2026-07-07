@@ -1,41 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,25,30&text=JOSEF%20DANIELS&fontColor=FFFFFF&fontSize=62&animation=fadeIn&fontAlignY=38&desc=AI%20TERMINAL%20v0.1&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,25,30&text=Josef%20Daniels&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Future%20AI%20Engineer&descAlignY=60"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1000&duration=2800&color=00E5FF&center=true&vCenter=true&width=900&lines=%24+boot+Josef+Daniels;%3E+Initializing+Profile...;%3E+Loading+Modules...;%3E+Python+Developer;%3E+Future+AI+Engineer;%3E+System+Online.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Learning+Programming+Every+Day.;Future+Artificial+Intelligence+Engineer.)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=josefdaniels&label=VISITORS&style=for-the-badge&color=00E5FF"/>
+<img src="https://komarev.com/ghpvc/?username=josefdaniels&label=Profile+Views&style=for-the-badge&color=1F6FEB"/>
 
 </div>
 
 ---
 
-# $ system_status
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│ STATUS          ONLINE                       │
-│ ROLE            High School Student          │
-│ LANGUAGE        Python                       │
-│ TOOLS           Git • GitHub • VS Code       │
-│ CURRENT LEVEL   Beginner                     │
-│ TARGET          Artificial Intelligence      │
-│ VERSION         v0.1                         │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
----
-
-# $ whoami
+# 💻 About Me
 
 ```python
 class JosefDaniels:
 
     def __init__(self):
-
-        self.name = "Josef Daniels"
+        self.role = "High School Student"
 
         self.learning = [
             "Programming Logic",
@@ -55,14 +36,11 @@ class JosefDaniels:
             "Mathematics",
             "Problem Solving"
         ]
-
-    def motto(self):
-        return "Keep learning. Keep building."
 ```
 
 ---
 
-# $ installed_tools
+# ⚙️ Tech Stack
 
 <div align="center">
 
@@ -72,31 +50,23 @@ class JosefDaniels:
 
 ---
 
-# $ roadmap
+# 📚 Currently Learning
 
-```text
-[████████████████████] Programming Logic ✔
+<div align="center">
 
-[██████████████░░░░░░] Python
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-[██████░░░░░░░░░░░░░░] Object-Oriented Programming
+<img src="https://img.shields.io/badge/Programming%20Logic-1F6FEB?style=for-the-badge"/>
 
-[░░░░░░░░░░░░░░░░░░░░] Data Structures
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-[░░░░░░░░░░░░░░░░░░░░] SQL
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
-[░░░░░░░░░░░░░░░░░░░░] NumPy
-
-[░░░░░░░░░░░░░░░░░░░░] Pandas
-
-[░░░░░░░░░░░░░░░░░░░░] Machine Learning
-
-[░░░░░░░░░░░░░░░░░░░░] Artificial Intelligence
-```
+</div>
 
 ---
 
-# $ github_dashboard
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -116,42 +86,43 @@ class JosefDaniels:
 
 ---
 
-# $ repositories
+# 🚀 Featured Projects
 
-### 🔹 Guess the Number
+### 🔢 Guess the Number
 
-```
-Language : Python
+A number guessing game built with Python.
 
-Status   : Completed
+**Technologies**
 
-Type     : Game
-```
+- Python
+- Programming Logic
 
----
-
-### 🔹 Calculator Metzudat David
-
-```
-Language : Python
-
-Status   : Completed
-
-Type     : Calculator
-```
+🔗 https://github.com/josefdaniels/Guess-the-number
 
 ---
 
-# $ connect
+### 🧮 Calculator Metzudat David
+
+A calculator developed with Python.
+
+**Technologies**
+
+- Python
+
+🔗 https://github.com/josefdaniels/Calculator-Metzudat-David
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/josefdaniels">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.instagram.com/josefdaniels_">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -160,18 +131,12 @@ Type     : Calculator
 
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2gyZGd0ZzBnb2J0a2d0aGxpNDdlazU4czMxbmVkMjB0Nm9hNm1jeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width="320"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2gyZGd0ZzBnb2J0a2d0aGxpNDdlazU4czMxbmVkMjB0Nm9hNm1jeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width="360"/>
 
-```text
-$ logout
+<br><br>
 
-Saving progress...
-
-Profile closed successfully.
-
-See you in the next commit.
-```
+### ⭐ Thanks for visiting my profile!
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=gradient&customColorList=12,20,24,25,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,25,30"/>
