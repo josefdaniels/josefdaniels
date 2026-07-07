@@ -1,48 +1,52 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,25,30&text=Josef%20Daniels&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Future%20AI%20Engineer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,40:0F172A,70:172554,100:1D4ED8&text=Josef%20Daniels&fontSize=60&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=Python%20Student%20%E2%80%A2%20Future%20AI%20Engineer&descAlignY=60&descSize=20"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Learning+Programming+Every+Day.;Future+Artificial+Intelligence+Engineer.)](https://git.io/typing-svg)
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=josefdaniels&label=Profile+Views&style=for-the-badge&color=1F6FEB"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Welcome+to+my+digital+space.;Learning+Python+and+Programming+Logic.;Building+my+path+to+Artificial+Intelligence.)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=josefdaniels&label=VISITORS&color=2563EB&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💻 About Me
+<div align="center">
+
+## 🌌 About Me
+
+</div>
 
 ```python
 class JosefDaniels:
 
     def __init__(self):
-        self.role = "High School Student"
+        self.status = "High School Student"
 
-        self.learning = [
-            "Programming Logic",
+        self.current_focus = [
             "Python",
-            "Git",
-            "GitHub"
+            "Programming Logic",
+            "Problem Solving",
+            "Git & GitHub"
         ]
 
-        self.goal = (
-            "Become an Artificial Intelligence "
-            "and Machine Learning Engineer"
-        )
-
-        self.interests = [
-            "Artificial Intelligence",
+        self.future = [
             "Data Science",
-            "Mathematics",
-            "Problem Solving"
+            "Machine Learning",
+            "Artificial Intelligence"
         ]
+
+        self.goal = "Become an AI Engineer"
 ```
 
 ---
 
-# ⚙️ Tech Stack
-
 <div align="center">
+
+# 🖥️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark"/>
 
@@ -50,93 +54,97 @@ class JosefDaniels:
 
 ---
 
-# 📚 Currently Learning
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Programming%20Logic-1F6FEB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+# 📚 Learning Journey
 
 </div>
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josefdaniels&theme=github_dark"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josefdaniels&theme=github_dark"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josefdaniels&theme=github_dark"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-### 🔢 Guess the Number
-
-A number guessing game built with Python.
-
-**Technologies**
-
-- Python
-- Programming Logic
-
-🔗 https://github.com/josefdaniels/Guess-the-number
-
----
-
-### 🧮 Calculator Metzudat David
-
-A calculator developed with Python.
-
-**Technologies**
-
-- Python
-
-🔗 https://github.com/josefdaniels/Calculator-Metzudat-David
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/josefdaniels">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.instagram.com/josefdaniels_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
+<table align="center">
+<tr>
+<td align="center">🐍<br>Python</td>
+<td align="center">🧩<br>Logic</td>
+<td align="center">🌱<br>Git</td>
+<td align="center">⚡<br>GitHub</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2gyZGd0ZzBnb2J0a2d0aGxpNDdlazU4czMxbmVkMjB0Nm9hNm1jeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width="360"/>
+# 📊 GitHub Activity
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josefdaniels&theme=github_dark"/>
 
 <br><br>
 
-### ⭐ Thanks for visiting my profile!
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josefdaniels&theme=github_dark"/>
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josefdaniels&theme=github_dark"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,25,30"/>
+---
+
+# 🚀 Projects
+
+## 🔢 Guess the Number
+
+A Python project focused on programming logic and user interaction.
+
+**Stack**
+```
+Python
+Logic Programming
+```
+
+🔗 https://github.com/josefdaniels/Guess-the-number
+
+
+---
+
+## 🧮 Calculator Metzudat David
+
+A calculator created to practice Python fundamentals.
+
+**Stack**
+```
+Python
+Mathematical Operations
+```
+
+🔗 https://github.com/josefdaniels/Calculator-Metzudat-David
+
+
+---
+
+<div align="center">
+
+# 🌐 Connect
+
+<a href="https://github.com/josefdaniels">
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=60A5FA"/>
+</a>
+
+<a href="https://www.instagram.com/josefdaniels_">
+<img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=60A5FA"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2gyZGd0ZzBnb2J0a2d0aGxpNDdlazU4czMxbmVkMjB0Nm9hNm1jeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width="380"/>
+
+<br>
+
+### 🌙 Exploring. Learning. Building.
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:1D4ED8,50:172554,100:020617"/>
