@@ -141,7 +141,6 @@ Mathematical Operations
 
 <br>
 
-### 🌙 Exploring. Learning. Building.
 
 </div>
 
