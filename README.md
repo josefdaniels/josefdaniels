@@ -1,51 +1,68 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,25,30&text=JOSEF%20DANIELS&fontColor=FFFFFF&fontSize=60&animation=fadeIn&fontAlignY=38&desc=PYTHON%20DEVELOPER%20•%20FUTURE%20AI%20ENGINEER&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,25,30&text=JOSEF%20DANIELS&fontColor=FFFFFF&fontSize=62&animation=fadeIn&fontAlignY=38&desc=AI%20TERMINAL%20v0.1&descAlignY=60"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&duration=3000&color=00E5FF&center=true&vCenter=true&width=850&lines=%3E+SYSTEM+ONLINE;Python+Student;Learning+Programming+Logic;Future+Artificial+Intelligence+Engineer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1000&duration=2800&color=00E5FF&center=true&vCenter=true&width=900&lines=%24+boot+Josef+Daniels;%3E+Initializing+Profile...;%3E+Loading+Modules...;%3E+Python+Developer;%3E+Future+AI+Engineer;%3E+System+Online.)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=josefdaniels&label=PROFILE+VIEWS&style=for-the-badge&color=00E5FF"/>
+<img src="https://komarev.com/ghpvc/?username=josefdaniels&label=VISITORS&style=for-the-badge&color=00E5FF"/>
 
 </div>
 
 ---
 
-# > SYSTEM PROFILE
+# $ system_status
 
-```python
-class JosefDaniels:
-
-    role = "High School Student"
-
-    status = "Learning"
-
-    language = "Python"
-
-    tools = [
-        "Git",
-        "GitHub",
-        "VS Code"
-    ]
-
-    mission = (
-        "Build a solid Computer Science foundation "
-        "before specializing in Artificial Intelligence."
-    )
-
-    future_path = [
-        "Python",
-        "Algorithms",
-        "Data Structures",
-        "SQL",
-        "Data Science",
-        "Machine Learning",
-        "Artificial Intelligence"
-    ]
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│ STATUS          ONLINE                       │
+│ ROLE            High School Student          │
+│ LANGUAGE        Python                       │
+│ TOOLS           Git • GitHub • VS Code       │
+│ CURRENT LEVEL   Beginner                     │
+│ TARGET          Artificial Intelligence      │
+│ VERSION         v0.1                         │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
 ---
 
-# > TECH STACK
+# $ whoami
+
+```python
+class JosefDaniels:
+
+    def __init__(self):
+
+        self.name = "Josef Daniels"
+
+        self.learning = [
+            "Programming Logic",
+            "Python",
+            "Git",
+            "GitHub"
+        ]
+
+        self.goal = (
+            "Become an Artificial Intelligence "
+            "and Machine Learning Engineer"
+        )
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Data Science",
+            "Mathematics",
+            "Problem Solving"
+        ]
+
+    def motto(self):
+        return "Keep learning. Keep building."
+```
+
+---
+
+# $ installed_tools
 
 <div align="center">
 
@@ -55,31 +72,31 @@ class JosefDaniels:
 
 ---
 
-# > CURRENT STATUS
+# $ roadmap
 
 ```text
-████████████████████████████████
+[████████████████████] Programming Logic ✔
 
-SYSTEM        ONLINE
+[██████████████░░░░░░] Python
 
-ROLE          Student
+[██████░░░░░░░░░░░░░░] Object-Oriented Programming
 
-LANGUAGE      Python
+[░░░░░░░░░░░░░░░░░░░░] Data Structures
 
-EDITOR        VS Code
+[░░░░░░░░░░░░░░░░░░░░] SQL
 
-VERSION       v0.1
+[░░░░░░░░░░░░░░░░░░░░] NumPy
 
-NEXT UPDATE   Data Structures
+[░░░░░░░░░░░░░░░░░░░░] Pandas
 
-TARGET        Artificial Intelligence
+[░░░░░░░░░░░░░░░░░░░░] Machine Learning
 
-████████████████████████████████
+[░░░░░░░░░░░░░░░░░░░░] Artificial Intelligence
 ```
 
 ---
 
-# > GITHUB DASHBOARD
+# $ github_dashboard
 
 <div align="center">
 
@@ -99,21 +116,33 @@ TARGET        Artificial Intelligence
 
 ---
 
-# > FEATURED PROJECTS
+# $ repositories
 
-## 🔹 Guess the Number
+### 🔹 Guess the Number
 
-Simple number guessing game written in Python.
+```
+Language : Python
+
+Status   : Completed
+
+Type     : Game
+```
 
 ---
 
-## 🔹 Calculator Metzudat David
+### 🔹 Calculator Metzudat David
 
-Calculator developed with Python.
+```
+Language : Python
+
+Status   : Completed
+
+Type     : Calculator
+```
 
 ---
 
-# > CONNECT
+# $ connect
 
 <div align="center">
 
@@ -131,16 +160,16 @@ Calculator developed with Python.
 
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2gyZGd0ZzBnb2J0a2d0aGxpNDdlazU4czMxbmVkMjB0Nm9hNm1jeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width="300"/>
-
-<br><br>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2gyZGd0ZzBnb2J0a2d0aGxpNDdlazU4czMxbmVkMjB0Nm9hNm1jeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width="320"/>
 
 ```text
-TRANSMISSION COMPLETED.
+$ logout
 
-THANK YOU FOR VISITING.
+Saving progress...
 
-SEE YOU IN THE NEXT COMMIT.
+Profile closed successfully.
+
+See you in the next commit.
 ```
 
 </div>
