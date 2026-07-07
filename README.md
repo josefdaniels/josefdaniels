@@ -1,34 +1,78 @@
 <!-- HEADER -->
-
 <div align="center">
-
-<img src="https://media.tenor.com/cp9gCZS6JaFAAAAi/matrix-code.gif" width="700"/>
-
+  <img src="https://media.tenor.com/cp9gCZS6JaFAAAAi/matrix-code.gif" width="700" alt="Matrix Code Animation"/>
 </div>
 
 ---
 
 <div align="center">
+  <h1>👨‍💻 Josef Daniels</h1>
+  <p><strong>High School Student | Aspiring Data Scientist & AI Engineer</strong></p>
+</div>
 
-# Josef Daniels  
+---
+
+## 🌱 About Me
+
+- 🎓 High School Student with a strong passion for logic, mathematics, and physics
+- 🐍 Currently learning **Python** with focus on Programming Logic and Problem Solving
+- 🤖 Aiming to specialize in **Data Science, Machine Learning, and Artificial Intelligence**
+- 💡 Interested in applying technology to complex systems, aerospace, and defense
+
+---
+
+## 💻 Technologies & Tools
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" style="margin: 8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50" style="margin: 8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="50" height="50" style="margin: 8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" height="50" style="margin: 8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50" style="margin: 8px"/>
+</div>
+
+**Currently Learning:** SQL • Power BI • Scikit-learn • C/C++ (Embedded Systems)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josefdaniels&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josefdaniels&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-<!-- ABOUT + GIF + SOCIALS LADO A LADO -->
+## 🚀 Featured Projects
 
-<table>
-<tr>
+**🔢 Guess the Number**  
+Interactive game with difficulty levels and scoring system.  
+**Technologies:** Python • Programming Logic  
+[→ View Project](https://github.com/josefdaniels/Guess-the-number)
 
-<!-- ABOUT ME (ESQUERDA) -->
-<td width="50%" valign="top">
+**🧮 Calculator Metzudat David**  
+Advanced calculator with graphical interface.  
+**Technologies:** Python  
+[→ View Project](https://github.com/josefdaniels/Calculator-Metzudat-David)
 
-## 🌿 About Me
+*More projects coming soon...*
 
-- 🎓 High School Student  
-- 🐍 Learning Python & Programming Logic  
-- 🤖 Future focus: AI / Machine Learning  
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/josefdaniels_)
+[![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josefdaniels)
+
+</div>
+
+---
 
 </td>
 
@@ -39,55 +83,4 @@
 
 </td>
 
-<!-- SOCIALS (DIREITA) -->
-<td width="25%" valign="top" align="center">
 
-## 🌐 Socials
-
-<a href="https://www.instagram.com/josefdaniels_?igsh=OXNrNXdncW9xbXR0">
-  <img src="https://img.shields.io/badge/INSTAGRAM-0B1220?style=for-the-badge&logo=instagram&logoColor=58A6FF"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/josefdaniels">
-  <img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=58A6FF"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 💻 Languages & Tools
-
-<div align="center">
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="margin: 0 10px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin: 0 10px"/>
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" style="filter: brightness(0) invert(1); margin: 0 10px"/>
-  </p>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josefdaniels&show_icons=true&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josefdaniels&theme=github-dark-blue&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josefdaniels&theme=github-compact&hide_border=true&color=58A6FF&line=58A6FF&point=58A6FF)
-
-</div>
-
----
-
-## 🚀 Projects
-
-- 🧠 [Guess the Number](https://github.com/josefdaniels/Guess-the-number)  
-- 🧮 [Calculator Metzudat David](https://github.com/josefdaniels/Calculator-Metzudat-David)
