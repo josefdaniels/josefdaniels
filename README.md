@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Welcome+to+my+digital+space.;Learning+Python+and+Programming+Logic.;Building+my+path+to+Artificial+Intelligence.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Learning+Python+and+Programming+Logic)](https://git.io/typing-svg)
 
 <br>
 
