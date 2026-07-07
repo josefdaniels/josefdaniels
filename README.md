@@ -1,46 +1,51 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,25,30&text=Josef%20Daniels&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Future%20AI%20Engineer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,25,30&text=JOSEF%20DANIELS&fontColor=FFFFFF&fontSize=60&animation=fadeIn&fontAlignY=38&desc=PYTHON%20DEVELOPER%20•%20FUTURE%20AI%20ENGINEER&descAlignY=60"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Learning+Programming+Every+Day.;Future+Artificial+Intelligence+Engineer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&duration=3000&color=00E5FF&center=true&vCenter=true&width=850&lines=%3E+SYSTEM+ONLINE;Python+Student;Learning+Programming+Logic;Future+Artificial+Intelligence+Engineer.)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=josefdaniels&label=Profile+Views&style=for-the-badge&color=1F6FEB"/>
+<img src="https://komarev.com/ghpvc/?username=josefdaniels&label=PROFILE+VIEWS&style=for-the-badge&color=00E5FF"/>
 
 </div>
 
 ---
 
-# 💻 About Me
+# > SYSTEM PROFILE
 
 ```python
 class JosefDaniels:
 
-    def __init__(self):
-        self.role = "High School Student"
+    role = "High School Student"
 
-        self.learning = [
-            "Programming Logic",
-            "Python",
-            "Git",
-            "GitHub"
-        ]
+    status = "Learning"
 
-        self.goal = (
-            "Become an Artificial Intelligence "
-            "and Machine Learning Engineer"
-        )
+    language = "Python"
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Data Science",
-            "Mathematics",
-            "Problem Solving"
-        ]
+    tools = [
+        "Git",
+        "GitHub",
+        "VS Code"
+    ]
+
+    mission = (
+        "Build a solid Computer Science foundation "
+        "before specializing in Artificial Intelligence."
+    )
+
+    future_path = [
+        "Python",
+        "Algorithms",
+        "Data Structures",
+        "SQL",
+        "Data Science",
+        "Machine Learning",
+        "Artificial Intelligence"
+    ]
 ```
 
 ---
 
-# ⚙️ Tech Stack
+# > TECH STACK
 
 <div align="center">
 
@@ -50,23 +55,31 @@ class JosefDaniels:
 
 ---
 
-# 📚 Currently Learning
+# > CURRENT STATUS
 
-<div align="center">
+```text
+████████████████████████████████
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+SYSTEM        ONLINE
 
-<img src="https://img.shields.io/badge/Programming%20Logic-1F6FEB?style=for-the-badge"/>
+ROLE          Student
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+LANGUAGE      Python
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+EDITOR        VS Code
 
-</div>
+VERSION       v0.1
+
+NEXT UPDATE   Data Structures
+
+TARGET        Artificial Intelligence
+
+████████████████████████████████
+```
 
 ---
 
-# 📊 GitHub Analytics
+# > GITHUB DASHBOARD
 
 <div align="center">
 
@@ -86,43 +99,30 @@ class JosefDaniels:
 
 ---
 
-# 🚀 Featured Projects
+# > FEATURED PROJECTS
 
-### 🔢 Guess the Number
+## 🔹 Guess the Number
 
-A number guessing game built with Python.
-
-**Technologies**
-
-- Python
-- Programming Logic
-
-🔗 https://github.com/josefdaniels/Guess-the-number
+Simple number guessing game written in Python.
 
 ---
 
-### 🧮 Calculator Metzudat David
+## 🔹 Calculator Metzudat David
 
-A calculator developed with Python.
-
-**Technologies**
-
-- Python
-
-🔗 https://github.com/josefdaniels/Calculator-Metzudat-David
+Calculator developed with Python.
 
 ---
 
-# 🌐 Connect With Me
+# > CONNECT
 
 <div align="center">
 
 <a href="https://github.com/josefdaniels">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
 <a href="https://www.instagram.com/josefdaniels_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00E5FF"/>
 </a>
 
 </div>
@@ -131,12 +131,18 @@ A calculator developed with Python.
 
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2gyZGd0ZzBnb2J0a2d0aGxpNDdlazU4czMxbmVkMjB0Nm9hNm1jeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width="360"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2gyZGd0ZzBnb2J0a2d0aGxpNDdlazU4czMxbmVkMjB0Nm9hNm1jeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width="300"/>
 
 <br><br>
 
-### ⭐ Thanks for visiting my profile!
+```text
+TRANSMISSION COMPLETED.
+
+THANK YOU FOR VISITING.
+
+SEE YOU IN THE NEXT COMMIT.
+```
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,25,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=gradient&customColorList=12,20,24,25,30"/>
