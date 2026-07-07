@@ -1,37 +1,67 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://media.tenor.com/cp9gCZS6JaFAAAAi/matrix-code.gif" width="700" alt="Matrix Code Animation"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyODFuM3kzNmNkOXZzeG5jMXkyb3lkaDZjanNieWl6a3dma2N5YzB2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m9tLjyQ6jYogM/giphy.gif" width="700" alt="Technical Banner"/>
 </div>
 
 ---
 
 <div align="center">
-  <h1>👨‍💻 Josef Daniels</h1>
-  <p><strong>High School Student | Aspiring Data Scientist & AI Engineer</strong></p>
+
+  <!-- Typing Animation -->
+  <h1>
+    <span style="color:#00ff9d; font-family: monospace;">Josef Daniels</span>
+  </h1>
+
+  <p style="font-size: 1.3em; color: #58a6ff; font-family: monospace;">
+    <span id="typing" style="white-space: pre;"></span>
+    <span style="animation: blink 0.7s infinite;">|</span>
+  </p>
+
 </div>
+
+<!-- Typing Script -->
+<script>
+  const text = "Aspiring Data Scientist | AI Enthusiast";
+  let index = 0;
+  const speed = 60;
+
+  function typeWriter() {
+    if (index < text.length) {
+      document.getElementById("typing").innerHTML += text.charAt(index);
+      index++;
+      setTimeout(typeWriter, speed);
+    }
+  }
+  window.onload = typeWriter;
+</script>
+
+<style>
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+  }
+</style>
 
 ---
 
 ## 🌱 About Me
 
-- 🎓 High School Student with a strong passion for logic, mathematics, and physics
-- 🐍 Currently learning **Python** with focus on Programming Logic and Problem Solving
-- 🤖 Aiming to specialize in **Data Science, Machine Learning, and Artificial Intelligence**
-- 💡 Interested in applying technology to complex systems, aerospace, and defense
+- 🎓 High School Student  
+- 🐍 Programming Logic Student focused on **Python**  
+- 🤖 Aiming for a career in **Artificial Intelligence and Machine Learning**  
+- Passionate about solving complex problems through logic, mathematics, and code.
 
 ---
 
 ## 💻 Technologies & Tools
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" style="margin: 8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50" style="margin: 8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="50" height="50" style="margin: 8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" height="50" style="margin: 8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50" style="margin: 8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="55" height="55" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="55" height="55" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="55" height="55" style="margin: 10px"/>
 </div>
 
-**Currently Learning:** SQL • Power BI • Scikit-learn • C/C++ (Embedded Systems)
+**Currently Learning:** SQL • Pandas • NumPy • Power BI • Scikit-learn
 
 ---
 
@@ -50,16 +80,14 @@
 ## 🚀 Featured Projects
 
 **🔢 Guess the Number**  
-Interactive game with difficulty levels and scoring system.  
+Interactive number guessing game with difficulty levels and scoring system.  
 **Technologies:** Python • Programming Logic  
-[→ View Project](https://github.com/josefdaniels/Guess-the-number)
+[→ View Repository](https://github.com/josefdaniels/Guess-the-number)
 
 **🧮 Calculator Metzudat David**  
-Advanced calculator with graphical interface.  
+Advanced calculator with clean interface and mathematical operations.  
 **Technologies:** Python  
-[→ View Project](https://github.com/josefdaniels/Calculator-Metzudat-David)
-
-*More projects coming soon...*
+[→ View Repository](https://github.com/josefdaniels/Calculator-Metzudat-David)
 
 ---
 
@@ -67,20 +95,14 @@ Advanced calculator with graphical interface.
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/josefdaniels_)
-[![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josefdaniels)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josefdaniels_?igsh=OXNrNXdncW9xbXR0)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josefdaniels)
 
 </div>
 
 ---
 
-</td>
-
-<!-- GIF (CENTRO) -->
-<td width="25%" align="center" valign="top">
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJwcWl0cXp1cGljcmw2YTZlcW4ydGxsMW14ZGIxNmk0ZWtyeWNlNyZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width="120"/>
-
-</td>
-
-
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUycm0zcG1udHNtOGR1czFkZ2c4cTJqcm1reDRxandod2hobmFrZDNwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width="400"/>
+</div>
